@@ -4,7 +4,7 @@ title: "Test blog item"
 date: 2013-04-22 18:08
 comments: true
 categories: [test, hoi]
-published: false
+published: true
 ---
 
 **Afgelopen woensdag (19 december, 2012) was er [Dinner with Drupal in Enschede](https://www.facebook.com/events/290101954443629). Er waren meerdere sessies, Bram Ten Hove beet het spits af en opende met een presentatie over de [Domain](http://drupal.org/project/domain) module. Daarna was mijn presentatie over de Spaces module en tot slot gaf Bart Feenstra een presentatie over geautomatiseerd testen.**
