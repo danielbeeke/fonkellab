@@ -4,16 +4,9 @@ title: "Test blog item"
 date: 2013-04-22 18:08
 comments: true
 categories: 
-published: true
+published: false
 ---
 
----
-layout: post
-title: "Spaces for multi-headed Drupal monsters"
-date: 2012-12-21 23:30
-comments: true
-categories: [Spaces, Drupal 7, Fonkelbox, Presentation, Slides]
----
 **Afgelopen woensdag (19 december, 2012) was er [Dinner with Drupal in Enschede](https://www.facebook.com/events/290101954443629). Er waren meerdere sessies, Bram Ten Hove beet het spits af en opende met een presentatie over de [Domain](http://drupal.org/project/domain) module. Daarna was mijn presentatie over de Spaces module en tot slot gaf Bart Feenstra een presentatie over geautomatiseerd testen.**
 
 <!--more-->
